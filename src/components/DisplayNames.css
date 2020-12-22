@@ -1,9 +1,9 @@
 
 .names-container{
-    border: solid yellow 5px;
+  
     display: flex;
     flex-wrap: wrap;
-    max-width: 60%;
+  
     margin: 0 auto;
     padding: 10px;
 }
@@ -12,4 +12,12 @@
     max-width: 50px;
     padding: 4px 28px;
     margin: 15px;
+}
+.big-container{
+  border: solid yellow 5px;
+   max-width: 60%;
+      margin: 0 auto;
+}
+hr{
+      border-top: 6px dashed red;
 }
