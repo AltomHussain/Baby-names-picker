@@ -21,3 +21,9 @@
 hr{
       border-top: 6px dashed red;
 }
+.m{
+    background-color: blue;
+}
+.f{
+    background-color: pink;
+}
